@@ -20,4 +20,4 @@
 
 ## 📫 Contact
 - Email: tirupathiraolukalapu08@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: https://www.linkedin.com/in/tirupathi-rao-lukalapu-a719912aa/
