@@ -1,16 +1,23 @@
-## Hi there 👋
+# Tirupathi Rao Lukalapu
 
-<!--
-**TirupathiRaoLukalapu/TirupathiRaoLukalapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Welcome to my Data Engineering Portfolio
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- MS in Information Technology & Management (2025)
+- 3 years of experience in building data pipelines using Python, SQL, Spark, Kafka, and Azure
+- Passionate about real-time data systems and cloud-based architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Python, SQL,
+- Apache Spark, Kafka, Airflow
+- Azure (ADF, Databricks), Snowflake, AWS
+- Tableau, Power BI
+
+## 📂 Projects
+- 🔹 Real-Time Data Streaming Pipeline – [GitHub Link]
+- 🔹 E-commerce Pipeline on Azure – [GitHub Link]
+- 🔹 Automated Fraud Detection System – [GitHub Link]
+
+## 📫 Contact
+- Email: tirupathiraolukalapu08@gmail.com
+- LinkedIn: [Your LinkedIn Profile]
