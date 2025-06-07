@@ -8,7 +8,8 @@
 - Passionate about real-time data systems and cloud-based architecture
 
 ## 🧠 Skills
--Programming Skills: Python (NumPy, Pandas, Matplotlib, seaborn, Scikit-learn, Tensorflow), SQL, Pyspark, R, Bash Big Data/Frameworks: Apache Spark, Kafka, Hive, Hadoop, HDFS, Airflow
+-Programming Skills: Python (NumPy, Pandas, Matplotlib, seaborn, Scikit-learn, Tensorflow), SQL, Pyspark, R, Bash 
+-Big Data/Frameworks: Apache Spark, Kafka, Hive, Hadoop, HDFS, Airflow
 -Databases/Storage:MongoDB, Snowflake, Azure Data Lake Storage Gen2, AWS S3, PostgreSQL
 -Orchestration Tools:Apache Airflow, Azure Data Factory
 -Cloud Platforms: Azure (ADF, Databricks, ADLS Gen 2), AWS (S3, EC2, EMR), Snowflake Visualization Tools: Power BI, Tableau
