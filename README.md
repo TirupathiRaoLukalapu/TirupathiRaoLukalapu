@@ -16,7 +16,9 @@
 
 -Orchestration Tools:Apache Airflow, Azure Data Factory
 
--Cloud Platforms: Azure (ADF, Databricks, ADLS Gen 2), AWS (S3, EC2, EMR), Snowflake Visualization Tools: Power BI, Tableau
+-Cloud Platforms: Azure (ADF, Databricks, ADLS Gen 2), AWS (S3, EC2, EMR), Snowflake 
+
+-Visualization Tools: Power BI, Tableau
 
 -Version Control/DevOps: Github
 
