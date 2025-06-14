@@ -41,7 +41,6 @@ GitHub, CI/CD (Git, Jenkins)
 
 🔹 [Real-Time Data Streaming Pipeline](https://github.com/TirupathiRaoLukalapu/Real-Time-Data-Streaming)  
 🔹 [E-commerce Pipeline on Azure](https://github.com/TirupathiRaoLukalapu/Ecommerce-Data-Pipeline-Azure)  
-🔹 [Automated Fraud Detection System](https://github.com/TirupathiRaoLukalapu/Fraud-Detection-ML-Pipeline)
 
 ---
 
