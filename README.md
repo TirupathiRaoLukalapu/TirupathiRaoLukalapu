@@ -3,8 +3,8 @@ Welcome to my **Data Engineering Portfolio**
 
 ---
 
-## 🚀 About Me  
-🎓 MS in Information Technology & Management (Graduating May 2025, Lindsey Wilson College)  
+## 🚀 About 
+🎓 MS in Information Technology & Management (Graduated May 2025, Lindsey Wilson College)  
 💼 3+ years of experience in building scalable data pipelines across healthcare and fintech domains  
 ☁️ Specialized in cloud data engineering using AWS, Azure, Databricks, and Snowflake  
 📈 Passionate about real-time data systems, automation, and enabling actionable analytics  
