@@ -43,7 +43,6 @@ GitHub, Jenkins, CI/CD Pipelines
 
 🔹 [Real-Time Data Streaming Pipeline](https://github.com/TirupathiRaoLukalapu/Real-Time-Data-Streaming) – Built a near real-time ingestion pipeline with Spark, S3, Glue, and Snowflake to analyze 30K+ records with 90% improved readiness.  
 🔹 [E-commerce Pipeline on Azure](https://github.com/TirupathiRaoLukalapu/Ecommerce-Data-Pipeline-Azure) – Designed an end-to-end pipeline for processing 100GB/day using Azure ADF, Databricks & Delta Lake.  
-🔹 [Fraud Detection System](https://github.com/TirupathiRaoLukalapu/Fraud-Detection-ML-Pipeline) – Built ML pipeline to detect financial frauds using SQL, Python, and cloud storage integrations.
 
 ---
 
