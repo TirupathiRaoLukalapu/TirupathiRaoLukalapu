@@ -1,57 +1,47 @@
 # 👋 Hello, I am Tirupathi Rao Lukalapu  
+**Data Engineer | Cloud & Big Data Enthusiast | Actively Seeking Full-Time Opportunities**
 Welcome to my **Data Engineering Portfolio**
 
----
 
-## 🚀 About 
-🎓 MS in Information Technology & Management (Graduated May 2025, Lindsey Wilson College)  
-💼 3+ years of experience in building scalable data pipelines across healthcare and fintech domains  
-☁️ Specialized in cloud data engineering using AWS, Azure, Databricks, and Snowflake  
-📈 Passionate about real-time data systems, automation, and enabling actionable analytics  
-📍 Based in Chicago, IL | 📅 Available to work full-time from **June 28, 2025** (on **OPT**)
+## About Me  
+I am a Data Engineer with over 3 years of experience designing and deploying scalable data solutions across healthcare and fintech domains. Currently pursuing a Master’s in Information Technology & Management (graduating May 2025), I bring hands-on expertise in building batch and real-time data pipelines, cloud architecture, and data orchestration.
 
-🚀 **Actively seeking full-time Data Engineering opportunities** where I can contribute to building modern data infrastructure, solve complex data challenges, and help teams make smarter decisions through data.
+My start date for full-time employment is June 28, 2025 (on OPT), and I am actively seeking data engineering roles where I can apply my experience with tools like Apache Spark, Snowflake, Databricks, Airflow, and Python to help organizations solve complex data problems.
 
----
-
-## 🧠 Skills
+## Skills Overview
 
 **Programming & Scripting**  
-Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow), SQL, PySpark, R, Bash
+Python, SQL, PySpark, R, Bash
 
 **Big Data & Frameworks**  
-Apache Spark, Kafka, Hive, Hadoop, HDFS, Airflow
+Apache Spark, Kafka, Hive, Hadoop, HDFS, Apache Airflow
+
+**Cloud & Data Platforms**  
+AWS (S3, EC2, EMR, Glue), Azure (Data Factory, Databricks, ADLS Gen2), Snowflake
 
 **Databases & Storage**  
-Snowflake, PostgreSQL, MongoDB, Azure Data Lake Gen2, AWS S3
+PostgreSQL, MongoDB, Snowflake, Azure Data Lake Storage, AWS S3
 
-**Data Orchestration**  
-Apache Airflow, Azure Data Factory, AWS Glue
+**Orchestration & DevOps**  
+Apache Airflow, Azure Data Factory, GitHub, Jenkins, CI/CD pipelines
 
-**Cloud Platforms**  
-Azure (ADF, Databricks, ADLS Gen2), AWS (S3, EC2, EMR), Snowflake
-
-**BI & Visualization**  
+**Visualization & Reporting**  
 Power BI, Tableau
 
-**Version Control & DevOps**  
-GitHub, Jenkins, CI/CD Pipelines
+## Featured Projects
+
+- **Real-Time Data Streaming Pipeline**  
+  Built a real-time ingestion pipeline using Spark, AWS S3, Glue, and Snowflake; enabled near real-time analytics for 30K+ records with 90% improved data readiness.  
+  [GitHub Repository](https://github.com/TirupathiRaoLukalapu/Real-Time-Data-Streaming)
+
+- **E-commerce Pipeline on Azure**  
+  Designed an end-to-end pipeline processing 100 GB/day using Azure Data Factory, Databricks, and Delta Lake; improved processing efficiency by 30%.  
+  [GitHub Repository](https://github.com/TirupathiRaoLukalapu/Ecommerce-Data-Pipeline-Azure)
+
+## Contact
+
+**Email:** tirupathiraolukalapu08@gmail.com  
+**LinkedIn:** [linkedin.com/in/tirupathi-rao-lukalapu-a719912aa](https://www.linkedin.com/in/tirupathi-rao-lukalapu-a719912aa)  
+**Portfolio:** [tirupathiraolukalapu.github.io/my-personal-portfolio](https://tirupathiraolukalapu.github.io/my-personal-portfolio)
 
 ---
-
-## 📂 Projects
-
-🔹 [Real-Time Data Streaming Pipeline](https://github.com/TirupathiRaoLukalapu/Real-Time-Data-Streaming) – Built a near real-time ingestion pipeline with Spark, S3, Glue, and Snowflake to analyze 30K+ records with 90% improved readiness.  
-🔹 [E-commerce Pipeline on Azure](https://github.com/TirupathiRaoLukalapu/Ecommerce-Data-Pipeline-Azure) – Designed an end-to-end pipeline for processing 100GB/day using Azure ADF, Databricks & Delta Lake.  
-
----
-
-## 📫 Contact
-
-📧 Email: [tirupathiraolukalapu08@gmail.com](mailto:tirupathiraolukalapu08@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/tirupathi-rao-lukalapu-a719912aa](https://www.linkedin.com/in/tirupathi-rao-lukalapu-a719912aa)  
-🌐 Portfolio: [tirupathiraolukalapu.github.io/my-personal-portfolio](https://tirupathiraolukalapu.github.io/my-personal-portfolio/)
-
----
-
-💬 Let’s connect if you're hiring for a data-driven team — I'm eager to contribute, grow, and innovate in the evolving field of data engineering!
