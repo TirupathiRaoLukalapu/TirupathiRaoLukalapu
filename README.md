@@ -1,21 +1,23 @@
 # 👋 Hello, I am Tirupathi Rao Lukalapu  
-Welcome to my **Data Engineering** Portfolio
+Welcome to my **Data Engineering Portfolio**
 
 ---
 
 ## 🚀 About Me  
-🎓 MS in Information Technology & Management (May 2025, Lindsey Wilson College)  
-💼 3+ years of experience in designing, building, and maintaining scalable data pipelines  
-🌐 Industry exposure across healthcare and fintech domains  
-☁️ Passionate about real-time data streaming, cloud-based architecture, and automation  
-📍 Based in Chicago, IL willing to relocate based on requirement
+🎓 MS in Information Technology & Management (Graduating May 2025, Lindsey Wilson College)  
+💼 3+ years of experience in building scalable data pipelines across healthcare and fintech domains  
+☁️ Specialized in cloud data engineering using AWS, Azure, Databricks, and Snowflake  
+📈 Passionate about real-time data systems, automation, and enabling actionable analytics  
+📍 Based in Chicago, IL | 📅 Available to work full-time from **June 28, 2025** (on **OPT**)
+
+🚀 **Actively seeking full-time Data Engineering opportunities** where I can contribute to building modern data infrastructure, solve complex data challenges, and help teams make smarter decisions through data.
 
 ---
 
 ## 🧠 Skills
 
-**Programming & Scripting**
-Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow), SQL, PySpark, R, Bash
+**Programming & Scripting**  
+Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow), SQL, PySpark, R, Bash
 
 **Big Data & Frameworks**  
 Apache Spark, Kafka, Hive, Hadoop, HDFS, Airflow
@@ -33,14 +35,15 @@ Azure (ADF, Databricks, ADLS Gen2), AWS (S3, EC2, EMR), Snowflake
 Power BI, Tableau
 
 **Version Control & DevOps**  
-GitHub, CI/CD (Git, Jenkins)
+GitHub, Jenkins, CI/CD Pipelines
 
 ---
 
 ## 📂 Projects
 
-🔹 [Real-Time Data Streaming Pipeline](https://github.com/TirupathiRaoLukalapu/Real-Time-Data-Streaming)  
-🔹 [E-commerce Pipeline on Azure](https://github.com/TirupathiRaoLukalapu/Ecommerce-Data-Pipeline-Azure)  
+🔹 [Real-Time Data Streaming Pipeline](https://github.com/TirupathiRaoLukalapu/Real-Time-Data-Streaming) – Built a near real-time ingestion pipeline with Spark, S3, Glue, and Snowflake to analyze 30K+ records with 90% improved readiness.  
+🔹 [E-commerce Pipeline on Azure](https://github.com/TirupathiRaoLukalapu/Ecommerce-Data-Pipeline-Azure) – Designed an end-to-end pipeline for processing 100GB/day using Azure ADF, Databricks & Delta Lake.  
+🔹 [Fraud Detection System](https://github.com/TirupathiRaoLukalapu/Fraud-Detection-ML-Pipeline) – Built ML pipeline to detect financial frauds using SQL, Python, and cloud storage integrations.
 
 ---
 
@@ -52,4 +55,4 @@ GitHub, CI/CD (Git, Jenkins)
 
 ---
 
-📍 Always open to opportunities that challenge me and grow my skills in modern data engineering!
+💬 Let’s connect if you're hiring for a data-driven team — I'm eager to contribute, grow, and innovate in the evolving field of data engineering!
