@@ -42,6 +42,6 @@ Power BI, Tableau
 
 **Email:** tirupathiraolukalapu08@gmail.com  
 **LinkedIn:** [linkedin.com/in/tirupathi-rao-lukalapu-a719912aa](https://www.linkedin.com/in/tirupathi-rao-lukalapu-a719912aa)  
-**Portfolio:** [tirupathiraolukalapu.github.io/my-personal-portfolio]([https://tirupathiraolukalapu.github.io/my-personal-portfolio](https://tirupathiraolukalapu.github.io/My-Personal-Portfolio/))
+**Portfolio:** [tirupathiraolukalapu.github.io/my-personal-portfolio]([https://tirupathiraolukalapu.github.io/my-personal-portfolio](https://tirupathiraolukalapu.github.io/My-Personal-Portfolio/)
 
 ---
