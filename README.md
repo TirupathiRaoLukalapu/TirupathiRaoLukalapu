@@ -12,6 +12,12 @@ My start date for full-time employment is June 28, 2025 (on OPT), and I am activ
 
 ![Tirupathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirupathiraolukalapu&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirupathiraolukalapu&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tirupathiraolukalapu&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tirupathiraolukalapu&theme=tokyonight&margin-w=15)
+
 ## Skills Overview
 
 **Programming & Scripting**  
