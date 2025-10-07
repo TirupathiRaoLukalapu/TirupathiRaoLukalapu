@@ -44,7 +44,7 @@ My start date for full-time employment is June 28, 2025 (on OPT), and I am activ
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://[www.linkedin.com/in/tirupathi-rao-lukalapu/](https://www.linkedin.com/in/tirupathi-rao-lukalapu-a719912aa/)" target="_blank">
+  <a href="https://www.linkedin.com/in/tirupathi-rao-lukalapu-a719912aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/TirupathiRaoLukalapu" target="_blank">
