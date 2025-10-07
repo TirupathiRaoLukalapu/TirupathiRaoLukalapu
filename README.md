@@ -42,23 +42,9 @@ My start date for full-time employment is June 28, 2025 (on OPT), and I am activ
 
 ---
 
-### 🧩 LeetCode Progress
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TirupathiRaoLukalapu&theme=tokyonight&margin-w=15&margin-h=15&row=1" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/tirupathi-rao-lukalapu/" target="_blank">
+  <a href="https://[www.linkedin.com/in/tirupathi-rao-lukalapu/](https://www.linkedin.com/in/tirupathi-rao-lukalapu-a719912aa/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/TirupathiRaoLukalapu" target="_blank">
