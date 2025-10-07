@@ -49,13 +49,6 @@ My start date for full-time employment is June 28, 2025 (on OPT), and I am activ
 
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TirupathiRaoLukalapu&bg_color=0f1822&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TirupathiRaoLukalapu&theme=tokyonight&margin-w=15&margin-h=15&row=1" />
