@@ -1,57 +1,85 @@
-# 👋 Hello, I am Tirupathi Rao Lukalapu  
-**Data Engineer | Cloud & Big Data Enthusiast | Actively Seeking Full-Time Opportunities**
-Welcome to my **Data Engineering Portfolio**
-
-
-## About Me  
-I am a Data Engineer with over 3+ years of experience designing and deploying scalable data solutions across healthcare and fintech domains.Graduated with a Master’s in Information Technology & Management (May 2025), I bring hands-on expertise in building batch and real-time data pipelines, cloud architecture, and data orchestration.
-
-My start date for full-time employment is June 28, 2025 (on OPT), and I am actively seeking data engineering roles where I can apply my experience with tools like Apache Spark, Snowflake, Databricks, Airflow, and Python to help organizations solve complex data problems.
-
-## 📊 GitHub Stats
-
-![Tirupathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirupathiraolukalapu&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirupathiraolukalapu&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tirupathiraolukalapu&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tirupathiraolukalapu&theme=tokyonight&margin-w=15)
-
-## Skills Overview
-
-**Programming & Scripting**  
-Python, SQL, PySpark, R, Bash
-
-**Big Data & Frameworks**  
-Apache Spark, Kafka, Hive, Hadoop, HDFS, Apache Airflow
-
-**Cloud & Data Platforms**  
-AWS (S3, EC2, EMR, Glue), Azure (Data Factory, Databricks, ADLS Gen2), Snowflake
-
-**Databases & Storage**  
-PostgreSQL, MongoDB, Snowflake, Azure Data Lake Storage, AWS S3
-
-**Orchestration & DevOps**  
-Apache Airflow, Azure Data Factory, GitHub, Jenkins, CI/CD pipelines
-
-**Visualization & Reporting**  
-Power BI, Tableau
-
-## Featured Projects
-
-- **Real-Time Data Streaming Pipeline**  
-  Built a real-time ingestion pipeline using Spark, AWS S3, Glue, and Snowflake; enabled near real-time analytics for 30K+ records with 90% improved data readiness.  
-  [GitHub Repository](https://github.com/TirupathiRaoLukalapu/Real-Time-Data-Streaming)
-
-- **E-commerce Pipeline on Azure**  
-  Designed an end-to-end pipeline processing 100 GB/day using Azure Data Factory, Databricks, and Delta Lake; improved processing efficiency by 30%.  
-  [GitHub Repository](https://github.com/TirupathiRaoLukalapu/Ecommerce-Data-Pipeline-Azure)
-
-## Contact
-
-**Email:** tirupathiraolukalapu08@gmail.com  
-**LinkedIn:** [linkedin.com/in/tirupathi-rao-lukalapu-a719912aa](https://www.linkedin.com/in/tirupathi-rao-lukalapu-a719912aa)  
-**Portfolio:** ([https://tirupathiraolukalapu.github.io/my-personal-portfolio](https://tirupathiraolukalapu.github.io/My-Personal-Portfolio/)
+<!-- Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3A9CF3&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Tirupathi+Rao+Lukalapu+👋;Data+Engineer+|+SQL+|+Python+|+AWS+|+Databricks+|+Airflow" alt="Typing SVG" />
+</h1>
 
 ---
+
+### 🧠 About Me
+I’m a **Data Engineer** passionate about building scalable data pipelines and solving real-world problems using **SQL**, **Python**, and **Cloud technologies**.  
+Currently, I’m focusing on strengthening my **SQL fundamentals**, **window functions**, and **performance optimization** through LeetCode and real-world projects.  
+
+📍 Based in the U.S. | 🎓 Master’s in Information Technology Management  
+💼 Actively applying for **Data Engineer** roles | 🤝 Open to collaboration and mentorship  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-008080?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TirupathiRaoLukalapu&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TirupathiRaoLukalapu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirupathiRaoLukalapu&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧩 LeetCode Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TirupathiRaoLukalapu&bg_color=0f1822&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TirupathiRaoLukalapu&theme=tokyonight&margin-w=15&margin-h=15&row=1" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/tirupathi-rao-lukalapu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/TirupathiRaoLukalapu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧾 Fun Stats
+- 🔍 Focus Areas: SQL Optimization, ETL Pipelines, Data Modeling  
+- 🎯 Currently Learning: Apache Spark & Data Warehouse Architecture  
+- 📚 Favorite Tools: Databricks, Airflow, AWS, Snowflake  
+- 🧩 Problem Solving: Practicing LeetCode SQL 50 (Window Functions Edition)  
+
+---
+
+⭐️ **If you like my projects or SQL solutions, consider giving them a star!**
