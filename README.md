@@ -1,6 +1,6 @@
 <!-- Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3A9CF3&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Tirupathi+Rao+Lukalapu+👋;Data+Engineer+|+SQL+|+Python+|+AWS+|+Databricks+|+Airflow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3A9CF3&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Tirupathi+Rao+Lukalapu+👋;Data+Engineer+|+SQL+|+Python+|+AWS+|+Databricks+|" alt="Typing SVG" />
 </h1>
 
 ---
