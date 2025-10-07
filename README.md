@@ -8,6 +8,10 @@ I am a Data Engineer with over 3+ years of experience designing and deploying sc
 
 My start date for full-time employment is June 28, 2025 (on OPT), and I am actively seeking data engineering roles where I can apply my experience with tools like Apache Spark, Snowflake, Databricks, Airflow, and Python to help organizations solve complex data problems.
 
+## 📊 GitHub Stats
+
+![Tirupathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirupathiraolukalapu&show_icons=true&theme=tokyonight)
+
 ## Skills Overview
 
 **Programming & Scripting**  
