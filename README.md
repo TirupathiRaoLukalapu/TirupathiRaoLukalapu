@@ -6,8 +6,9 @@
 ---
 
 ### 🧠 About Me
-I’m a **Data Engineer** passionate about building scalable data pipelines and solving real-world problems using **SQL**, **Python**, and **Cloud technologies**.  
-Currently, I’m focusing on strengthening my **SQL fundamentals**, **window functions**, and **performance optimization** through LeetCode and real-world projects.  
+I am a Data Engineer with over 3+ years of experience designing and deploying scalable data solutions across healthcare and fintech domains.Graduated with a Master’s in Information Technology & Management (May 2025), I bring hands-on expertise in building batch and real-time data pipelines, cloud architecture, and data orchestration.
+
+My start date for full-time employment is June 28, 2025 (on OPT), and I am actively seeking data engineering roles where I can apply my experience with tools like Apache Spark, Snowflake, Databricks, Airflow, and Python to help organizations solve complex data problems.
 
 📍 Based in the U.S. | 🎓 Master’s in Information Technology Management  
 💼 Actively applying for **Data Engineer** roles | 🤝 Open to collaboration and mentorship  
